@@ -10,5 +10,3 @@ Killing a player with lightning is a boolean. Yes/No. There is an option to be a
 With more modification you can re-code it for different chat triggering purposes.
 
 Handy for foul language filters where there is a penalty for cursing.
-
-If that's not enough then you can setup horizontal portals in the sky and drop them from one portal to another in a never ending loop as a jail.
